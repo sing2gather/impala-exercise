@@ -2,7 +2,7 @@
   "books": [
     {
       "id": "872179f2-4de2-4cde-a259-ee470d83d515",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?ee470d83d515",
+      "cover": "https://picsum.photos/640/480/?image=1000",
       "isbn": "9781593275846",
       "title": "Eloquent JavaScript, Second Edition",
       "subtitle": "A Modern Introduction to Programming",
@@ -15,7 +15,7 @@
     },
     {
       "id": "89cae71c-fbe5-445c-8299-6de7a88ea5ab",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?6de7a88ea5ab",
+      "cover": "https://picsum.photos/640/480/?image=1001",
       "isbn": "9781449331818",
       "title": "Learning JavaScript Design Patterns",
       "subtitle": "A JavaScript and jQuery Developer's Guide",
@@ -28,7 +28,7 @@
     },
     {
       "id": "5f2f7db1-2373-4930-b1e0-9affb811698f",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?9affb811698f",
+      "cover": "https://picsum.photos/640/480/?image=1002",
       "isbn": "9781449365035",
       "title": "Speaking JavaScript",
       "subtitle": "An In-Depth Guide for Programmers",
@@ -41,7 +41,7 @@
     },
     {
       "id": "1805d513-7e3b-49fd-aace-9d8b21dd8f74",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?9d8b21dd8f74",
+      "cover": "https://picsum.photos/640/480/?image=1003",
       "isbn": "9781491950296",
       "title": "Programming JavaScript Applications",
       "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
@@ -54,7 +54,7 @@
     },
     {
       "id": "17da4aea-6e54-43a3-aece-11b1362de170",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?11b1362de170",
+      "cover": "https://picsum.photos/640/480/?image=1004",
       "isbn": "9781593277574",
       "title": "Understanding ECMAScript 6",
       "subtitle": "The Definitive Guide for JavaScript Developers",
@@ -67,7 +67,7 @@
     },
     {
       "id": "c84fe861-5bec-4dde-a277-2795ec273044",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?2795ec273044",
+      "cover": "https://picsum.photos/640/480/?image=1005",
       "isbn": "9781491904244",
       "title": "You Don't Know JS",
       "subtitle": "ES6 & Beyond",
@@ -80,7 +80,7 @@
     },
     {
       "id": "808c1c51-2330-4f40-8bab-0020e626db36",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?0020e626db36",
+      "cover": "https://picsum.photos/640/480/?image=1006",
       "isbn": "9781449325862",
       "title": "Git Pocket Guide",
       "subtitle": "A Working Introduction",
@@ -93,7 +93,7 @@
     },
     {
       "id": "3ae372e9-b500-4f37-aacf-5569cae3bf77",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?5569cae3bf77",
+      "cover": "https://picsum.photos/640/480/?image=1007",
       "isbn": "9781449337711",
       "title": "Designing Evolvable Web APIs with ASP.NET",
       "subtitle": "Harnessing the Power of the Web",
@@ -106,7 +106,7 @@
     },
     {
       "id": "eb422d6f-1d2a-4dec-bc97-d0e77e0ed750",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?d0e77e0ed750",
+      "cover": "https://picsum.photos/640/480/?image=1008",
       "isbn": "unknown",
       "title": "Un début dans la vie",
       "subtitle": "La Comédie Humaine",
@@ -115,7 +115,7 @@
     },
     {
       "id": "1be8799b-b9f9-4eed-a1e9-99cf587a68df",
-      "cover": "https:\/\/lorempixel.com\/640\/480\/?99cf587a68df",
+      "cover": "https://picsum.photos/640/480/?image=1009",
       "isbn": "unknown",
       "title": "Le père Goriot",
       "subtitle": "La Comédie Humaine",
